@@ -1,4 +1,4 @@
-package com.example.y_kuboyama.demolistview;
+package com.exam.ykbyam.demolistview;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

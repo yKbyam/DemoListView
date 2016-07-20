@@ -5,7 +5,7 @@ android {
     buildToolsVersion "24.0.0"
 
     defaultConfig {
-        applicationId "com.example.y_kuboyama.demolistview"
+        applicationId "com.exam.ykbyam.demolistview"
         minSdkVersion 16
         targetSdkVersion 24
         versionCode 1
